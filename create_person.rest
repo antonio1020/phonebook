@@ -1,5 +1,5 @@
 
-POST http://localhost:3001/api/persons/ HTTP/1.1
+POST https://still-garden-51246.herokuapp.com/api/persons HTTP/1.1
 content-type: application/json
 
 {
